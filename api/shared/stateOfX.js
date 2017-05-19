@@ -14,11 +14,9 @@ stateOfX.SendGridApiKey = "SG.__PAyTbsSn--XrWyGr98pA.aqlghDu-kBGLqoRhWdpByk4tAKY
 stateOfX.mailMessages                           = {};
 
 //mail to affiliate
-stateOfX.mailMessages.from_email                = "support@megapoker.com";
-stateOfX.mailMessages.mail_subjectAffiliate     = "your affiliate request is processed";
-stateOfX.mailMessages.mail_contentAffiliate     = "Hello,Your request has been proceed. Admin will contact ASAP";
-stateOfX.mailMessages.mail_subjectAffiliateEdit = "Affiliate profile update";
-stateOfX.mailMessages.mail_contentAffiliateEdit = "Affiliate your profile has been updated";
+stateOfX.mailMessages.from_email                = "rupak.infinite@gmail.com";
+stateOfX.mailMessages.mail_subject			    = "Check multiple mailer for sending email";
+
 
 
 module.exports = stateOfX;
